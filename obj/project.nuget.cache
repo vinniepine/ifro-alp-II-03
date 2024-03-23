@@ -1,0 +1,19 @@
+{
+  "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "NVgYldWJfBwXUC1F749ma0eMF6aMgnaManwa0v6/JhHw/SmpMIjmIyX9xS1wTrFa3cq8CWA2oO/dqAHE/W4GBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Dropbox\\Algoritmo e Lógica de Programação 2\\Vinicius Pinheiro\\ALP II - C#\\Aula do dia 21-08-2023\\Aula do dia 21-08-2023.csproj",
+=======
+  "dgSpecHash": "nGBb4ClfsWMhmjGvKveE3zbFUK5ZzmzlCIfcJ/SMCMlPz4SQW2/VRN5pQW1tDGx7hspqBkjP+abh/Cs+dLTFYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\ADS - IFRO\\2º Período\\1 - Algoritmo e Lógica de Programação II\\ALP II - 02. Aula do dia 14-08-2023\\Aula do dia 14-08-2023.csproj",
+>>>>>>> 845d215fcd697a775b3412c1ebdf2a1681445de0
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

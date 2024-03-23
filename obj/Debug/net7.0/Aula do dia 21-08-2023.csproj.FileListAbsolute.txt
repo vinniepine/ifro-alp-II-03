@@ -1,0 +1,29 @@
+C:\Users\2023102060043\Documents\Vinicius\ALP II - C#\Aula do dia 21-08-2023\bin\Debug\net7.0\Aula do dia 21-08-2023.exe
+C:\Users\2023102060043\Documents\Vinicius\ALP II - C#\Aula do dia 21-08-2023\bin\Debug\net7.0\Aula do dia 21-08-2023.deps.json
+C:\Users\2023102060043\Documents\Vinicius\ALP II - C#\Aula do dia 21-08-2023\bin\Debug\net7.0\Aula do dia 21-08-2023.runtimeconfig.json
+C:\Users\2023102060043\Documents\Vinicius\ALP II - C#\Aula do dia 21-08-2023\bin\Debug\net7.0\Aula do dia 21-08-2023.dll
+C:\Users\2023102060043\Documents\Vinicius\ALP II - C#\Aula do dia 21-08-2023\bin\Debug\net7.0\Aula do dia 21-08-2023.pdb
+C:\Users\2023102060043\Documents\Vinicius\ALP II - C#\Aula do dia 21-08-2023\obj\Debug\net7.0\Aula do dia 21-08-2023.csproj.AssemblyReference.cache
+C:\Users\2023102060043\Documents\Vinicius\ALP II - C#\Aula do dia 21-08-2023\obj\Debug\net7.0\Aula do dia 21-08-2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023102060043\Documents\Vinicius\ALP II - C#\Aula do dia 21-08-2023\obj\Debug\net7.0\Aula do dia 21-08-2023.AssemblyInfoInputs.cache
+C:\Users\2023102060043\Documents\Vinicius\ALP II - C#\Aula do dia 21-08-2023\obj\Debug\net7.0\Aula do dia 21-08-2023.AssemblyInfo.cs
+C:\Users\2023102060043\Documents\Vinicius\ALP II - C#\Aula do dia 21-08-2023\obj\Debug\net7.0\Aula do dia 21-08-2023.csproj.CoreCompileInputs.cache
+C:\Users\2023102060043\Documents\Vinicius\ALP II - C#\Aula do dia 21-08-2023\obj\Debug\net7.0\Aula do dia 21-08-2023.dll
+C:\Users\2023102060043\Documents\Vinicius\ALP II - C#\Aula do dia 21-08-2023\obj\Debug\net7.0\refint\Aula do dia 21-08-2023.dll
+C:\Users\2023102060043\Documents\Vinicius\ALP II - C#\Aula do dia 21-08-2023\obj\Debug\net7.0\Aula do dia 21-08-2023.pdb
+C:\Users\2023102060043\Documents\Vinicius\ALP II - C#\Aula do dia 21-08-2023\obj\Debug\net7.0\Aula do dia 21-08-2023.genruntimeconfig.cache
+C:\Users\2023102060043\Documents\Vinicius\ALP II - C#\Aula do dia 21-08-2023\obj\Debug\net7.0\ref\Aula do dia 21-08-2023.dll
+C:\Users\Usuario\Desktop\Dropbox\Algoritmo e Lógica de Programação 2\Vinicius Pinheiro\ALP II - C#\Aula do dia 21-08-2023\bin\Debug\net7.0\Aula do dia 21-08-2023.exe
+C:\Users\Usuario\Desktop\Dropbox\Algoritmo e Lógica de Programação 2\Vinicius Pinheiro\ALP II - C#\Aula do dia 21-08-2023\bin\Debug\net7.0\Aula do dia 21-08-2023.deps.json
+C:\Users\Usuario\Desktop\Dropbox\Algoritmo e Lógica de Programação 2\Vinicius Pinheiro\ALP II - C#\Aula do dia 21-08-2023\bin\Debug\net7.0\Aula do dia 21-08-2023.runtimeconfig.json
+C:\Users\Usuario\Desktop\Dropbox\Algoritmo e Lógica de Programação 2\Vinicius Pinheiro\ALP II - C#\Aula do dia 21-08-2023\bin\Debug\net7.0\Aula do dia 21-08-2023.dll
+C:\Users\Usuario\Desktop\Dropbox\Algoritmo e Lógica de Programação 2\Vinicius Pinheiro\ALP II - C#\Aula do dia 21-08-2023\bin\Debug\net7.0\Aula do dia 21-08-2023.pdb
+C:\Users\Usuario\Desktop\Dropbox\Algoritmo e Lógica de Programação 2\Vinicius Pinheiro\ALP II - C#\Aula do dia 21-08-2023\obj\Debug\net7.0\Aula do dia 21-08-2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Dropbox\Algoritmo e Lógica de Programação 2\Vinicius Pinheiro\ALP II - C#\Aula do dia 21-08-2023\obj\Debug\net7.0\Aula do dia 21-08-2023.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Dropbox\Algoritmo e Lógica de Programação 2\Vinicius Pinheiro\ALP II - C#\Aula do dia 21-08-2023\obj\Debug\net7.0\Aula do dia 21-08-2023.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Dropbox\Algoritmo e Lógica de Programação 2\Vinicius Pinheiro\ALP II - C#\Aula do dia 21-08-2023\obj\Debug\net7.0\Aula do dia 21-08-2023.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Dropbox\Algoritmo e Lógica de Programação 2\Vinicius Pinheiro\ALP II - C#\Aula do dia 21-08-2023\obj\Debug\net7.0\Aula do dia 21-08-2023.dll
+C:\Users\Usuario\Desktop\Dropbox\Algoritmo e Lógica de Programação 2\Vinicius Pinheiro\ALP II - C#\Aula do dia 21-08-2023\obj\Debug\net7.0\refint\Aula do dia 21-08-2023.dll
+C:\Users\Usuario\Desktop\Dropbox\Algoritmo e Lógica de Programação 2\Vinicius Pinheiro\ALP II - C#\Aula do dia 21-08-2023\obj\Debug\net7.0\Aula do dia 21-08-2023.pdb
+C:\Users\Usuario\Desktop\Dropbox\Algoritmo e Lógica de Programação 2\Vinicius Pinheiro\ALP II - C#\Aula do dia 21-08-2023\obj\Debug\net7.0\Aula do dia 21-08-2023.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Dropbox\Algoritmo e Lógica de Programação 2\Vinicius Pinheiro\ALP II - C#\Aula do dia 21-08-2023\obj\Debug\net7.0\ref\Aula do dia 21-08-2023.dll
